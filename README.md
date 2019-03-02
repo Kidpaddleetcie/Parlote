@@ -48,5 +48,13 @@ J'avais fais également d'autres exercices autour de la textbox pour tenter de r
 
 J'espère que ce sera finit un jour pour l'implémenter dans un projet annexe comme un RPG ou un truc du genre !
 
-
+## Ressources
+La voix de Sans d'Undertale: [https://www.myinstants.com/media/sounds/voice_sans.mp3](https://www.myinstants.com/media/sounds/voice_sans.mp3)
          
+Créer un effet de machine à écrire: [https://www.w3schools.com/howto/howto_js_typewriter.asp](https://www.w3schools.com/howto/howto_js_typewriter.asp)
+
+Créer un cerlce en CSS : [https://www.w3schools.com/howto/howto_css_circles.asp](https://www.w3schools.com/howto/howto_css_circles.asp)
+
+Faire des textes en responsives : [https://www.w3schools.com/howto/howto_css_responsive_text.asp](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+
+Palier au problème de Google Chrome et sa phobie de l'audio: [https://stackoverflow.com/questions/40276718/how-to-handle-uncaught-in-promise-domexception-the-play-request-was-interru](https://stackoverflow.com/questions/40276718/how-to-handle-uncaught-in-promise-domexception-the-play-request-was-interru)
