@@ -1,0 +1,47 @@
+.box {
+    z-index: 1;
+    width: 500px;
+    color: white;
+    background-color: black;
+    text-shadow: 1px Opx Opx grey;
+    border: 1px solid grey;
+    height: 20px;
+    position: absolute;
+    top: 10vw;
+    left: 6vw;
+    text-align: center;
+    &::before {
+        content: "Moi, je dis :";
+        left: 0;
+        position: absolute;
+    }
+}
+
+.visage {
+    position: absolute;
+    top: 1vw;
+    left: 20vw;
+    .visu {
+        position: absolute;
+        width: 100%;
+    }
+    .dot {
+        height: 50px;
+        width: 50px;
+        padding-top: 10px;
+        margin-right: 10px;
+        background-color: black;
+        border-radius: 50%;
+        display: inline-block;
+    }
+}
+
+.dotplis {
+    height: 10px;
+    width: 50px;
+    padding-top: 10px;
+    margin-right: 10px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
