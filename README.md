@@ -27,8 +27,10 @@ var texte= prompt ("Que souhaitez vous écrire?");
             var i = -1; // On incremente i en debut de fonction, il vaudra donc 0 a la premiere execution.
             var message = texte; // Message a afficher, on utilise le caractere \n pour le retour a la ligne.
             var interval = setInterval(extraire, 120); // On declanche le timer et on le garde dans une variable pour l'arreter plus tard.
-            ```
-	    
+```
+	   
+	   
+	   
 Mais ce vieux code (datant du 28 Novembre 2017) ne permettait pas de créer un système +/- viable pour le créer ce que je voulais !
 
 Ce que je veux ? Une animation en mode "machine à écrire" qui produit un son toutes les deux lettres!
